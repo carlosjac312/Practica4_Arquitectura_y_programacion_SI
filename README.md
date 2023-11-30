@@ -1,11 +1,11 @@
 # Practica4_Arquitectura_y_programacion_SI
-//Gets:
+## Gets:
 /getTardis
 /getDimensiones
 /getPlanetas
 /getPersonas
 
-adds y updates:
+## adds y updates:
 /addTardis || /updateTardis/:idTardis
   body:
   "epoca":"numero"
@@ -21,7 +21,7 @@ adds y updates:
   body:
   "nombre":"nombrequequieras"
 
-deletes:
+## deletes:
 /deletePersona/:idPersona
 /deletePlaneta/:idPlaneta
 /deleteDimension/:idDimension
