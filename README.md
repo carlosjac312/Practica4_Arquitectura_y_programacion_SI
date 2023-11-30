@@ -1,5 +1,5 @@
 # Practica4_Arquitectura_y_programacion_SI
-Gets:
+//Gets:
 /getTardis
 /getDimensiones
 /getPlanetas
